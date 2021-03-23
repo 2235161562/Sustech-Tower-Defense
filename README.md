@@ -8,5 +8,7 @@
 
 可运行exe：`塔防游戏.exe`
 
+源码：https://github.com/2235161562/STD-Source-Code
+
 贡献：王超逸 杨英特 谢迈杰  周子越 张一弛
 
