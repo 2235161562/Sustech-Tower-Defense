@@ -6,7 +6,7 @@
 
 说明：`E10_final.pptx`
 
-可运行exe：`isplay/塔防游戏.exe`
+可运行exe：`塔防游戏.exe`
 
 贡献：王超逸 杨英特 谢迈杰  周子越 张一弛
 
